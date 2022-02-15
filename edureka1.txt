@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 This is the file in the Vedhanshi Project
 
 Hard Reset the git file
+=======
+This is the First Session
+
+New Line added
+>>>>>>> cd1a74f5c887e2bb500e25498fdc2fc9cfd52944
